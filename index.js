@@ -42,6 +42,6 @@ function makesound(key){
         audio.play();
         break;
       default:
-        console.log(buttonInnerHTML);
+        console.log(key);
     }
 }
